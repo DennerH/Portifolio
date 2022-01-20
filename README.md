@@ -12,7 +12,7 @@ Projeto criado com objetivo de treinamento e execução de habilidades aprendida
 ## Técnicas utilizadas
 
 - Responsividade Multiplataforma
-- Formatado conforme padronização de Convetional Commits
+- Formatação conforme padronização de Convetional Commits
 - Clean Code
 - Cada funcionalidade está representada por um commit 
 
